@@ -1,6 +1,8 @@
 # -*- coding: utf-8 -*-
 # CS82A - Automation Project - Ibrahima Sow
 # Version 2
+# https://github.com/ibrsow/cs82a/blob/master/sauce-labs-high-level-links.py
+# http://www.screencast.com/t/hwLRb4Xq3
 #
 # This module Create a Selenium test to automate the checking of the high-level links behind
 # the three-horizontal-bar glyph in the header of the Sauce Labs home page: RESOURCES, PRICING,
